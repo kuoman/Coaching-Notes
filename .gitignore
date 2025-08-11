@@ -1,0 +1,77 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+*.bak
+*.swp
+*.swo
+
+# Office temporary files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.~vsd*
+
+# Log files
+*.log
+
+# IDE and editor folders
+.idea/
+.idea_modules/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Cursor editor files
+.cursor/
+.cursor-server/
+.cursor.json
+
+# Windsurf editor files
+.windsurf/
+
+# Personal configuration files
+.env
+.env.local
+
+# Cache and package folders
+.cache/
+node_modules/
+
+# Specific document working files
+*.gdoc
+*.gsheet
+*.gslides
+.~lock.*#
+
+# Potentially sensitive information
+**/credentials.json
+**/client_secret*.json
+
+# Build outputs
+/dist
+/build
+/out
+/target
+
+# Large media files - keeping image files but excluding video formats
+*.mp4
+*.mov
+*.wmv
+*.avi
+*.webm
+*.mkv
+*.flv
+*.m4v
