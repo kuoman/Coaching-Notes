@@ -12,4 +12,28 @@ Beck Weinhold - 2025-05-19 Collab with AI
 
 Anonymous - 06-10-25 Collab Attendee 
    Very interesting workshop with real technics and option to apply immediatelly learned skills and discuss results with lecture
-        
+
+Divya Mistry - 2025-08--4 Immersive (senior manager)
+    Leaving enough time to talk about things we got stuck in, or the things that were different between participants. It didn't feel like we were just checking the boxes and rushing through like so many other workshops/trainings.     
+
+Paul Moore - 2025-08-04 - Immersive LMTS
+    A lot of the prompt tips and tricks were super useful
+
+Mauro Fujihara - 2025-08 -05 - Immersive SEE
+    To see how other people use the tools and learn efficient ways to improve my workflow.
+
+Ashton Vaz - 2025-08-05 - Immersive SMTS
+    Excellent hands-on tutorial! Learning how to craft prompts was my most valuable takeaway
+
+Leigh Wetmore - - 2025-09-02 Immersive LMTS
+    The workshop altered my mindset for building code with AI - I'll now think more about asking for options, establishing guidelines, making smaller incremental changes, and leveraging intellisense directly within the code more.
+
+Sanjay Kesavan - 2025-08-26 Rules LMTS
+    As a multi-month user of Cursor, I had never used 'Rules' before this training. I found the session extremely helpful and now understand how powerful the feature is for ensuring consistency and context.
+
+Rebecca Marshall - 2025-08-26 Rules UXA
+    Let the AI do the heavy lifting on generating rules for you! Don't struggle and leverage it's help in keeping the rules composable, direct, etc
+
+Aine Lynagh - 2025-09-03 - Rules LMTS
+    Thanks for helping me make much better rules for Cursor
+
