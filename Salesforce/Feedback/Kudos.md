@@ -40,3 +40,10 @@ Aine Lynagh - 2025-09-03 - Rules LMTS
 AndreaLeszek - 2025-09-23 - Collab with AI
     See screenshot.
 
+
+AI Camp Seattle - 2025-10-01 - Anonymous
+"I’ll admit I was skeptical going into the Crafting Code with AI session. At first sounded a lot like googling. But my curiosity paid off—I ended up learning something I wouldn’t have thought of on my own.
+One example that stuck with me was the idea of structuring instructions like this: “Ask me a question, one at a time until you have enough information. Give me two obvious options (A, B) and two non-obvious ones (C, D), and confirm before moving on.”
+That simple prompt shifted the way I think about interacting with AI and breaking down complex tasks. I’m glad I attended—it gave me practical strategies I can actually apply.
+Thank you!"
+
